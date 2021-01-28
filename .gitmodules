@@ -1,6 +1,6 @@
-[submodule "airbnb-clone-client"]
-	path = airbnb-clone-client
-	url = https://github.com/legitatx/airbnb-clone-client.git
-[submodule "airbnb-clone-server"]
-	path = airbnb-clone-server
+[submodule "server"]
+	path = server
 	url = https://github.com/legitatx/airbnb-clone-server.git
+[submodule "client"]
+	path = client
+	url = https://github.com/legitatx/airbnb-clone-client.git
